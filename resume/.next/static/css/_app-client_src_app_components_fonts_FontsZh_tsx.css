@@ -1,0 +1,5 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[12].use[3]!./public/fonts/fonts-zh.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+@font-face {font-family: "NotoSansSC"; src: url("/fonts/NotoSansSC-Regular.ttf");}
+@font-face {font-family: "NotoSansSC"; src: url("/fonts/NotoSansSC-Bold.ttf"); font-weight: bold;}
